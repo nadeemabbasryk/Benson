@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Allura-Regular';
+  src: url('Allura-Regular.eot?#iefix') format('embedded-opentype'),  url('Allura-Regular.otf')  format('opentype'),
+	     url('Allura-Regular.woff') format('woff'), url('Allura-Regular.ttf')  format('truetype'), url('Allura-Regular.svg#Allura-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
